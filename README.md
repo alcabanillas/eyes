@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Describe your project
+Javascript project with two eyes that are following the mouse movement. This project allows us to practice the listeners and apply CSS changes in realtime
 
 ## :sparkles: Features
 
@@ -58,11 +58,16 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://javascript.com/)
+- [HTML](https://html.com/)
+- [CSS](https://developer.mozilla.org/docs/Web/CSS)
+
+## :construction_worker: Roadmap
+
+<ul>
+<li>Apply some CSS changes to show a more customized experience
+</ul>
+
 
 ## :white_check_mark: Requirements
 
@@ -76,14 +81,6 @@ $ git clone https://github.com/alcabanillas/eyes
 
 # Access
 $ cd eyes
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License
