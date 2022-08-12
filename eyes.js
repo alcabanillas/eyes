@@ -1,7 +1,7 @@
 const balls = document.getElementsByClassName('ball');
 
 document.onmousemove = (event) => {
-  for (let i  = 0; i < 2; i++){
+  for (let i = 0; i < 2; i++) {
     const x = (event.clientX * 100) / window.innerWidth + '%';
     const y = (event.clientY * 100) / window.innerHeight + '%';
 
