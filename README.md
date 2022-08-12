@@ -46,10 +46,11 @@
 
 ## :dart: About
 
-Javascript project with two eyes that are following the mouse movement. This project allows us to practice the listeners and apply CSS changes in realtime.
+
+Javascript project with two eyes that are following the mouse movement. This project shows us how to add a listener and also how to apply CSS changes in realtime
 
 ## :sparkles: Features
-gi
+
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
