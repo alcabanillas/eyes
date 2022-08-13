@@ -65,7 +65,7 @@ The following tools were used in this project:
 ## :construction_worker: Roadmap
 
 <ul>
-<li>Allow the user to change backgrounds to show a more customized experience
+<li>Allow the user to change the image
 <li>Capture click button to change the color of the eyes
 </ul>
 
