@@ -26,9 +26,6 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center">
-	🚧  eyes 🚀 Under construction...  🚧
-</h4>
 
 <hr> -->
 
