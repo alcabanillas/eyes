@@ -58,9 +58,9 @@ CSS + Javscript project with two eyes that are following the mouse movement. Thi
 
 The following tools were used in this project:
 
-- [Javascript](https://javascript.com/)
-- [HTML](https://html.com/)
 - [CSS](https://developer.mozilla.org/docs/Web/CSS)
+- [HTML](https://html.com/)
+- [Javascript](https://javascript.com/)
 
 ## :construction_worker: Roadmap
 
