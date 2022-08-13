@@ -59,6 +59,7 @@ The following tools were used in this project:
 <ul>
 <li>Allow the user to change the image
 <li>Capture click button to change the color of the eyes
+<li>Add support for mobile environments supplying with a round the mouse
 </ul>
 
 
