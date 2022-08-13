@@ -52,7 +52,7 @@ CSS + Javscript project with two eyes that are following the mouse movement. Thi
 
 :heavy_check_mark: Added gioconda image as background so the eyes follow you\
 :heavy_check_mark: Adapt sizes from original to the current portrait\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Align items with flex;
 
 ## :rocket: Technologies
 
