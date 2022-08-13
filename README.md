@@ -24,11 +24,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/alcabanillas/eyes?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
