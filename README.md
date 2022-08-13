@@ -46,8 +46,7 @@
 
 ## :dart: About
 
-
-Javascript project with two eyes that are following the mouse movement. This project shows us how to add a listener and also how to apply CSS changes in realtime
+CSS + Javscript project with two eyes that are following the mouse movement. This project shows us how to add apply CSS changes in realtime and also uses mouse events in javascript to do changes
 
 ## :sparkles: Features
 
@@ -66,7 +65,8 @@ The following tools were used in this project:
 ## :construction_worker: Roadmap
 
 <ul>
-<li>Apply some CSS changes to show a more customized experience
+<li>Allow the user to change backgrounds to show a more customized experience
+<li>Capture click button to change the color of the eyes
 </ul>
 
 
