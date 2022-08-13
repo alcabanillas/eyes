@@ -1,29 +1,64 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background: #fff;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    transform: translateY(20%);
+    background-image: url('images/la-grande-galerie.webp');
+}
+
+header {
+  padding: 50px;
+  background: #000;
+}
+
+.Header_Home_logo {
+  height: 50px;
+  display: block;
+  margin: auto;
+}
+
+.face{
+  margin-top: 10px;
+  width: 400px;
+  background: #ebae34;
+  padding: 15px 10px;
+  position: relative;
 }
 
 .eyes {
+  align-items: center;
   position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  transform: translate(100px, 43px);
   width: 100%;
-  text-align: center;
+  
 }
 .eye {
-  width: 240px;
-  height: 120px;
+  width: 58px;
+  height: 24px;
   background: #fff;
   display: inline-block;
-  margin: 40px;
+  margin: 10px;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
 }
+
+img {
+  display: block;    
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
 .ball {
-  width: 80px;
-  height: 80px;
+  width: 20px;
+  height: 20px;
   background: #000;
   position: absolute;
   top: 50%;
