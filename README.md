@@ -24,11 +24,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/alcabanillas/eyes?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
@@ -49,7 +44,7 @@ CSS + Javscript project with two eyes that are following the mouse movement. Thi
 
 :heavy_check_mark: Added gioconda image as background so the eyes follow you\
 :heavy_check_mark: Adapt sizes from original to the current portrait\
-:heavy_check_mark: Align items with flex;
+:heavy_check_mark: Align items with flex
 
 ## :rocket: Technologies
 
@@ -64,6 +59,7 @@ The following tools were used in this project:
 <ul>
 <li>Allow the user to change the image
 <li>Capture click button to change the color of the eyes
+<li>Add support for mobile environments supplying with a round the mouse
 </ul>
 
 
